@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="350c25e6-5a8c-4485-a5ab-cd92c7c8dde4" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="mybatis" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jWsyo06FtpUSonQenzb252eeSm" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaJC\java\annotation\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaJC\java" />
+      <recent name="D:\javaJC\java\enum" />
+      <recent name="D:\javaJC\java\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ScheduledExecutorTest">
+    <configuration name="ScheduledExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScheduledExecutorTest" />
+      <module name="reflect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zqp.juc.allocateThread.Test11" />
+      <module name="reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zqp.juc.allocateThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="os" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zap" />
+      <option name="MAIN_CLASS_NAME" value="com.zap.Test1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="os" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zap" />
+      <option name="MAIN_CLASS_NAME" value="com.zap.Test1" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuyer.buyerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="proxy" />
+      <option name="MAIN_CLASS_NAME" value="proxy.TestBuyer" />
+      <option name="METHOD_NAME" value="buyerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScheduledExecutorTest" />
+        <item itemvalue="Application.Test11" />
+        <item itemvalue="JUnit.TestBuyer.buyerTest" />
+        <item itemvalue="JUnit.Test1.test2" />
+        <item itemvalue="JUnit.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="350c25e6-5a8c-4485-a5ab-cd92c7c8dde4" name="默认更改列表" comment="" />
+      <created>1603931438681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603931438681</updated>
+      <workItem from="1603931439900" duration="173000" />
+      <workItem from="1603944755413" duration="3063000" />
+      <workItem from="1604629118440" duration="6651000" />
+      <workItem from="1604645405772" duration="7163000" />
+      <workItem from="1604840473835" duration="5430000" />
+      <workItem from="1604885481488" duration="6041000" />
+      <workItem from="1604975938248" duration="5026000" />
+      <workItem from="1604990052967" duration="4921000" />
+      <workItem from="1605075866898" duration="8621000" />
+      <workItem from="1605093415306" duration="2559000" />
+      <workItem from="1605144199416" duration="9221000" />
+      <workItem from="1605165027421" duration="5568000" />
+      <workItem from="1605236700298" duration="1356000" />
+      <workItem from="1605267785862" duration="7013000" />
+      <workItem from="1605450090266" duration="634000" />
+      <workItem from="1605493574304" duration="771000" />
+      <workItem from="1605682704655" duration="1628000" />
+      <workItem from="1605688952379" duration="453000" />
+      <workItem from="1605700299982" duration="79000" />
+      <workItem from="1605749853417" duration="1438000" />
+      <workItem from="1605840713988" duration="596000" />
+      <workItem from="1606040781750" duration="685000" />
+      <workItem from="1606187624775" duration="2502000" />
+      <workItem from="1606196753590" duration="5402000" />
+      <workItem from="1606218105678" duration="2935000" />
+      <workItem from="1606268986898" duration="76000" />
+      <workItem from="1606269067170" duration="4000" />
+      <workItem from="1606446813496" duration="16000" />
+      <workItem from="1606812818690" duration="3000" />
+      <workItem from="1607330158171" duration="3000" />
+      <workItem from="1607616997737" duration="188000" />
+      <workItem from="1608134448481" duration="60000" />
+      <workItem from="1608135987730" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/collection/src/createList/Test.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nio/src/scoket/TestCommunication.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/io/src/Test.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="proxy" />
+        <watch expression="nums[i]" />
+        <watch expression="nums[i-dk]" />
+        <watch expression="nums[0]" />
+        <watch expression=" nums[j]" />
+        <watch expression="inChannel.read(buffers)" />
+        <watch expression="ky" />
+        <watch expression="k" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="elementData" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$Test1.ic" NAME="Test1 Coverage Results" MODIFIED="1605273148571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zap.*</FILTER>
+    </SUITE>
+  </component>
+</project>
